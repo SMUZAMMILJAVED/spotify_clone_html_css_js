@@ -1,7 +1,7 @@
 console.log('Here from now we will write the Jave Script Part ');
 
 // 🌍 Global Base URL for hosting (change here only if needed)
-const BASE_URL = "https://anss-spotify-clone.vercel.app";
+const BASE_URL = "https://spotify-clone-dumy.vercel.app";
 // const BASE_URL = "http://127.0.0.1:5500";
 
 let currentSong = new Audio();
